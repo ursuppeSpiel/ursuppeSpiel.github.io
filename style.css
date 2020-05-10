@@ -1,0 +1,58 @@
+
+body {
+    background-image: url('water.png');
+    background-size: 20vw;
+}
+
+.header {
+    margin: auto;
+    width: 50vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 30px;
+    font-weight: bold;
+    color: white;
+    font-size: 3vw;
+}
+
+.title {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
+
+    padding-top: 0px;
+    margin-top: 0px;
+
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+    font-size: 1.5vw;
+}
+
+.textBox {
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(106, 106, 107, 0.90);
+    color: #000000;
+    padding: 30px;
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: #1b1b1b;
+    border-style: inset;
+    font-size: 1.5vw;
+    margin: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.imgdiv {
+    text-align: center;
+}
+
+p {
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
